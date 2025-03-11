@@ -13,11 +13,3 @@ A simple Java-based chatbot application that simulates an interactive assistant.
 - **HashMap**: Used to store predefined responses.
 - **Scanner**: To handle user input via the command line.
 
-## How to Run the Project:
-
-Follow the steps below to run the Chatbot Assistant locally:
-
-### 1. Clone the Repository:
-Clone the repository to your local machine using Git. Open your terminal and run:
-```bash
-git clone https://github.com/yourusername/Chatbot-Assistant.git
